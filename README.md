@@ -1,4 +1,4 @@
-# NANO_B0T
+
 ITS OWN LLM | I'll USING API FROM GEMINI | IT JUST A CHAT BOT 
 # NANO BOT - The Intelligent Chatbot
 
@@ -11,10 +11,10 @@ Welcome to **NANO BOT**! An innovative chatbot designed to assist you with anyth
 
 ## Project Overview
 NANO BOT is a dedicated chatbot built to deliver quick and accurate responses. Whether you need help with daily queries or exploring new ideas, NANO BOT is ready to serve!
-![NANO BOT Screenshot](https://github.com/NANObyte0/NANO_B0T/blob/main/Screenshot%202025-10-25%20035931.png)
+![NANO BOT LOGO](https://github.com/NANObyte0/NANO_B0T/blob/main/ChatBot-Starter-main/static/nano.png.png)
 
 ## Screenshot
-![NANO BOT Screenshot](https://github.com/NANObyte0/NANO_B0T/blob/main/Screenshot%202025-10-25%20035931.png)
+![NANO BOT Screenshot](https://github.com/NANObyte0/NANO_B0T/blob/main/ChatBot-Starter-main/photo.png)
 
 ## Getting Started
 1. Download the project.
